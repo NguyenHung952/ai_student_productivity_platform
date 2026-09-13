@@ -1,8 +1,14 @@
 # 🎓 AI Student Productivity Platform
 
-Prototype web platform hướng tới việc hỗ trợ **học tập và năng suất của sinh viên** bằng các tính năng giao diện và logic phía client.
+> Prototype web platform hướng tới **học tập, quản lý công việc và năng suất sinh viên**, với nền tảng để mở rộng các tính năng AI.
 
-## 📂 Cấu trúc
+## ✨ Mục tiêu
+
+- Tập trung các nhu cầu học tập trong một giao diện.
+- Hỗ trợ tổ chức công việc/học tập.
+- Xây dựng nền tảng frontend có thể mở rộng sang các tính năng AI.
+
+## 🧱 Cấu trúc
 
 ```text
 ai_student_productivity_platform/
@@ -14,24 +20,22 @@ ai_student_productivity_platform/
 └── README.md
 ```
 
-## 🎯 Mục tiêu
+## 🛠️ Công nghệ
 
-- Tạo giao diện tập trung cho các nhu cầu học tập
-- Hỗ trợ tổ chức công việc/học tập trên một nền tảng web
-- Làm nền tảng để mở rộng thêm các tính năng AI cho sinh viên
+`HTML5` · `CSS3` · `JavaScript`
 
-## 🛠 Công nghệ
+## 🚀 Chạy
 
-- HTML5
-- CSS3
-- JavaScript
+Mở `index.html` bằng trình duyệt hiện đại hoặc chạy bằng static web server.
 
-## ▶️ Chạy
+## 🧭 Định hướng
 
-Mở `index.html` bằng trình duyệt hoặc sử dụng static web server.
+Project được xây theo hướng **student productivity hub**: giao diện tập trung, module hóa logic và có thể mở rộng thêm AI assistant, planning, tracking hoặc các tiện ích học tập.
 
-> Chỉ cập nhật README; các file HTML/CSS/JavaScript hiện có được giữ nguyên.
+## 📌 Trạng thái
 
-## 👨‍💻 Tác giả
+**Prototype / Active Learning Project** — README được hiện đại hóa; mã nguồn frontend hiện có được giữ nguyên.
 
-**Nguyễn Ngọc Hùng** – IUH.
+---
+
+**Nguyễn Ngọc Hùng · IUH**
